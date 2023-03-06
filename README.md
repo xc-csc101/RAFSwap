@@ -1,3 +1,6 @@
+## Region-Aware Face Swapping
+This repository contains the official PyTorch implementation of the paper *Region-Aware Face Swapping* (CVPR2022).
+
 ## Installation
 ```
 conda env create -f environment/psp_env.yaml
